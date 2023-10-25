@@ -613,7 +613,10 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Integrantes:\nNome: Fernando Gabriel Chacon Fernandes Teruel do Prado
     RA:11201811700\n\nNome: Tiago Cornetta Campos \nRA:11201922123\n\nNome: Rodrigo
-    Hisashi Takeuti\nRA:11201921914\n\nNome: Victor Finotti Passaro\nRA:11201920146\n"
+    Hisashi Takeuti\nRA:11201921914\n\nNome: Victor Finotti Passaro\nRA:11201920146\n\nArtigo
+    (STEM):\nKRAMARENKO, Tetiana H.; PYLYPENKO, Olha S.; ZASELSKYI, Volodymyr. Prospects
+    of\r\nusing the augmented reality application in STEM-based Mathematics teaching.
+    2019"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
@@ -640,8 +643,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 56
-  m_fontSizeBase: 56
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
